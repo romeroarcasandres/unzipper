@@ -1,10 +1,10 @@
 # Unzipper
 
-This script unzips all .zip files in a selected directory, recursively handling any newly extracted zip files within the directory.
+This script unzips all .zip files in a selected directory, recursively handling any newly extracted .zip files within the directory.
 
 ## Overview
 
-The `Unzip_Utility` script processes a given directory to find and extract all .zip files within it. It handles nested zip files by recursively searching and extracting until no zip files remain. The extracted contents are placed in the same directory as their respective zip files, and the original zip files are removed after extraction.
+The `Unzipper.py` script processes a given directory to find and extract all .zip files within it. It handles nested zip files by recursively searching and extracting until no zip files remain. The extracted contents are placed in the same directory as their respective zip files, and the original zip files are removed after extraction.
 
 ## Requirements
 
