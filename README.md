@@ -33,4 +33,4 @@ The script removes the original .zip files after extraction.
 The extracted files will be placed in the same directory as the original .zip files.
 
 ## License
-This project is governed by the GNU Affero General Public License v3.0. For comprehensive details, kindly refer to the LICENSE file included with this project.
+This project is governed by the CC BY-NC 4.0 license. For comprehensive details, kindly refer to the LICENSE file included with this project.
